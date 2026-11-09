@@ -22,4 +22,4 @@ Small WinForms Application that makes the restore of a Database more easier to t
   <li>Microsoft SQL Server</li>
   <li>.NET Framework</li>
   <li>You Have to Copy The Database u have downloaded to the backup folder of ur Sql server</li>
-</ul><h2>🚧 Important Notice </h2><p>This app works only on the local server of the course maybe i will make it support all servers later...</p>
+</ul><h2>🚧 Important Notice </h2><p>This app works only on the local server of the course that use the same name and password, maybe i will make it support all servers later...</p>
